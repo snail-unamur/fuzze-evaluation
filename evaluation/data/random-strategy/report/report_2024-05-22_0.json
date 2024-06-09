@@ -1,0 +1,5007 @@
+{
+  "failed": [
+    {
+      "tour": "fuzz_main_flow_tour_0",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_1",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_2",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_3",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_4",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_5",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_6",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_7",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_8",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_9",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_10",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_11",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_12",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_13",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_14",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_15",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_16",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_17",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_18",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_19",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_20",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_21",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_22",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_23",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_24",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_25",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_26",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_27",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_28",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_29",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_30",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_31",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_32",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_33",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_34",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_35",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_36",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_37",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_38",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_39",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_40",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_41",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_42",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_43",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_44",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_45",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_46",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_47",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_48",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_49",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_50",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_51",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_52",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_53",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_54",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_55",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_56",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_57",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_58",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_59",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_60",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_61",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_62",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_63",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_64",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_65",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_66",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_67",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_68",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_69",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_70",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_71",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_72",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_73",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_74",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_75",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_76",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_77",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_78",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_79",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_80",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_81",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_82",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_83",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_84",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_85",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_86",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_87",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_88",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_89",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_90",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_91",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_92",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_93",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_94",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_95",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_96",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_97",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_98",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_99",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_100",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_101",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_102",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_103",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_104",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_105",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_106",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_107",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_108",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_109",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_110",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_111",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_112",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_113",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_114",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_115",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_116",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_117",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_118",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_119",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_120",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_121",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_122",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_123",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_124",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_125",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_126",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_127",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_128",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_129",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_130",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_131",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_132",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_133",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_134",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_135",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_136",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_137",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_138",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_139",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_140",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_141",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_142",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_143",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_144",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_145",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_146",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_147",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_148",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_149",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_150",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_151",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_152",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_153",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_154",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_155",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_156",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_157",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_158",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_159",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_160",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_161",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_162",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_163",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_164",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_165",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_166",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_167",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_168",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_169",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_170",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_171",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_172",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_173",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_174",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_175",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_176",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_177",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_178",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_179",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_180",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_181",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_182",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_183",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_184",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_185",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_186",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_187",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_188",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_189",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_190",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_191",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_192",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_193",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_194",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_195",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_196",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_197",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_198",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_199",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_200",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_201",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_202",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_203",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_204",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_205",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_206",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_207",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_208",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_209",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_210",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_211",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_212",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_213",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_214",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_215",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_216",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_217",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_218",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_219",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_220",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_221",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_222",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_223",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_224",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_225",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_226",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_227",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_228",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_229",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_230",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_231",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_232",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_233",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_234",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_235",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_236",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_237",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_238",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_239",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_240",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_241",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_242",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_243",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_244",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_245",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_246",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_247",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_248",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_249",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_250",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_251",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_252",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_253",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_254",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_255",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_256",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_257",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_258",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_259",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_260",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_261",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_262",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_263",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_264",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_265",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_266",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_267",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_268",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_269",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_270",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_271",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_272",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_273",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_274",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_275",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_276",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_277",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_278",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_279",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_280",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_281",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_282",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_283",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_284",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_285",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_286",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_287",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_288",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_289",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_290",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_291",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_292",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_293",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_294",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_295",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_296",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_297",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_298",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_299",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_300",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_301",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_302",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_303",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_304",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_305",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_306",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_307",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_308",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_309",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_310",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_311",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_312",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_313",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_314",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_315",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_316",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_317",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_318",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_319",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_320",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_321",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_322",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_323",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_324",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_325",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_326",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_327",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_328",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_329",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_330",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_331",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_332",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_333",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_334",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_335",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_336",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_337",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_338",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_339",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_340",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_341",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_342",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_343",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_344",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_345",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_346",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_347",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_348",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_349",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_350",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_351",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_352",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_353",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_354",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_355",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_356",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_357",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_358",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_359",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_360",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_361",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_362",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_363",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_364",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_365",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_366",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_367",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_368",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_369",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_370",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_371",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_372",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_373",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_374",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_375",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_376",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_377",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_378",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_379",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_380",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_381",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_382",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_383",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_384",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_385",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_386",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_387",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_388",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_389",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_390",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_391",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_392",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_393",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_394",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_395",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_396",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_397",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_398",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_399",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_400",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_401",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_402",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_403",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_404",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_405",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_406",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_407",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_408",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_409",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_410",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_411",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_412",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_413",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_414",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_415",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_416",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_417",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_418",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_419",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_420",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_421",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_422",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_423",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_424",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_425",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_426",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_427",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_428",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_429",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_430",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_431",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_432",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_433",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_434",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_435",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_436",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_437",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_438",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_439",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_440",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_441",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_442",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_443",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_444",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_445",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_446",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_447",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_448",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_449",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_450",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_451",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_452",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_453",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_454",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_455",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_456",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_457",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_458",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_459",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_460",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_461",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_462",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_463",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_464",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_465",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_466",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_467",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_468",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_469",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_470",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_471",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_472",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_473",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_474",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_475",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_476",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_477",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_478",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_479",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_480",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_481",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_482",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_483",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_484",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_485",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_486",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_487",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_488",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_489",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_490",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_491",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_492",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_493",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_494",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_495",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_496",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_497",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_498",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_499",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_500",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_501",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_502",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_503",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_504",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_505",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_506",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_507",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_508",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_509",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_510",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_511",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_512",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_513",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_514",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_515",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_516",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_517",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_518",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_519",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_520",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_521",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_522",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_523",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_524",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_525",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_526",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_527",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_528",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_529",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_530",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_531",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_532",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_533",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_534",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_535",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_536",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_537",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_538",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_539",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_540",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_541",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_542",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_543",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_544",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_545",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_546",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_547",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_548",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_549",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_550",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_551",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_552",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_553",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_554",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_555",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_556",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_557",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_558",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_559",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_560",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_561",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_562",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_563",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_564",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_565",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_566",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_567",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_568",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_569",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_570",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_571",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_572",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_573",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_574",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_575",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_576",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_577",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_578",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_579",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_580",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_581",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_582",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_583",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_584",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_585",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_586",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_587",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_588",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_589",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_590",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_591",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_592",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_593",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_594",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_595",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_596",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_597",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_598",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_599",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_600",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_601",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_602",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_603",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_604",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_605",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_606",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_607",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_608",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_609",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_610",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_611",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_612",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_613",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_614",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_615",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_616",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_617",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_618",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_619",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_620",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_621",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_622",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_623",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_624",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_625",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_626",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_627",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_628",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_629",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_630",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_631",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_632",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_633",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_634",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_635",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_636",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_637",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_638",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_639",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_640",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_641",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_642",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_643",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_644",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_645",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_646",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_647",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_648",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_649",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_650",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_651",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_652",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_653",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_654",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_655",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_656",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_657",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_658",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_659",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_660",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_661",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_662",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_663",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_664",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_665",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_666",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_667",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_668",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_669",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_670",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_671",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_672",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_673",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_674",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_675",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_676",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_677",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_678",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_679",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_680",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_681",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_682",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_683",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_684",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_685",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_686",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_687",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_688",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_689",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_690",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_691",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_692",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_693",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_694",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_695",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_696",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_697",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_698",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_699",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_700",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_701",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_702",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_703",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_704",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_705",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_706",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_707",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_708",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_709",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_710",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_711",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_712",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_713",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_714",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_715",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_716",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_717",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_718",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_719",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_720",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_721",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_722",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_723",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_724",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_725",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_726",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_727",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_728",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_729",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_730",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_731",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_732",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_733",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_734",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_735",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_736",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_737",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_738",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_739",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_740",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_741",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_742",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_743",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_744",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_745",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_746",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_747",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_748",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_749",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_750",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_751",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_752",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_753",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_754",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_755",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_756",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_757",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_758",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_759",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_760",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_761",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_762",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_763",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_764",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_765",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_766",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_767",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_768",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_769",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_770",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_771",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_772",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_773",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_774",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_775",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_776",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_777",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_778",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_779",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_780",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_781",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_782",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_783",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_784",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_785",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_786",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_787",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_788",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_789",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_790",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_791",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_792",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_793",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_794",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_795",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_796",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_797",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_798",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_799",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_800",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_801",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_802",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_803",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_804",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_805",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_806",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_807",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_808",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_809",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_810",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_811",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_812",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_813",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_814",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_815",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_816",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_817",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_818",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_819",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_820",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_821",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_822",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_823",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_824",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_825",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_826",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_827",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_828",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_829",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_830",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_831",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_832",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_833",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_834",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_835",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_836",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_837",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_838",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_839",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_840",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_841",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_842",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_843",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_844",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_845",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_846",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_847",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_848",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_849",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_850",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_851",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_852",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_853",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_854",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_855",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_856",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_857",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_858",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_859",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_860",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_861",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_862",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_863",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_864",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_865",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_866",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_867",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_868",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_869",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_870",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_871",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_872",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_873",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_874",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_875",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_876",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_877",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_878",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_879",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_880",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_881",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_882",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_883",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_884",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_885",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_886",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_887",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_888",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_889",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_890",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_891",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_892",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_893",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_894",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_895",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_896",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_897",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_898",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_899",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_900",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_901",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_902",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_903",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_904",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_905",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_906",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_907",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_908",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_909",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_910",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_911",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_912",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_913",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_914",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_915",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_916",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_917",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_918",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_919",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_920",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_921",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_922",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_923",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_924",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_925",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_926",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_927",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_928",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_929",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_930",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_931",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_932",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_933",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_934",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_935",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_936",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_937",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_938",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_939",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_940",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_941",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_942",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_943",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_944",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_945",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_946",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_947",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_948",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_949",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_950",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_951",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_952",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_953",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_954",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_955",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_956",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_957",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_958",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_959",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_960",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_961",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_962",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_963",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_964",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_965",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_966",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_967",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_968",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_969",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_970",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_971",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_972",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_973",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_974",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_975",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_976",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_977",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_978",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_979",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_980",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_981",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_982",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_983",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_984",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_985",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_986",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_987",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_988",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_989",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_990",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_991",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_992",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_993",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_994",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_995",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_996",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_997",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_998",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    },
+    {
+      "tour": "fuzz_main_flow_tour_999",
+      "step": ".o_field_widget[name=project_id] input",
+      "data": []
+    }
+  ],
+  "date": "2024-05-22T23:51:43.305806+00:00",
+  "total_fuzzed": 1000,
+  "failed_fuzzed": 1000
+}

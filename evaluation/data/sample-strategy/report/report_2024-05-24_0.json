@@ -1,0 +1,371 @@
+{
+  "failed": [
+    {
+      "tour": "fuzz_main_flow_tour_11",
+      "step": ".o_field_widget[name=email] input",
+      "data": [
+        {
+          "name": "main_flow_tour",
+          "index": 22,
+          "step": ".o_field_widget[name=email] input",
+          "fuzz": "ZXn@E.org",
+          "original": "test@the_flow.com"
+        }
+      ]
+    },
+    {
+      "tour": "fuzz_main_flow_tour_27",
+      "step": ".o_field_widget[name=email] input",
+      "data": [
+        {
+          "name": "main_flow_tour",
+          "index": 22,
+          "step": ".o_field_widget[name=email] input",
+          "fuzz": "E@SVO.com",
+          "original": "test@the_flow.com"
+        }
+      ]
+    },
+    {
+      "tour": "fuzz_main_flow_tour_71",
+      "step": ".o_field_widget[name=email] input",
+      "data": [
+        {
+          "name": "main_flow_tour",
+          "index": 22,
+          "step": ".o_field_widget[name=email] input",
+          "fuzz": "x@7XIyI.org",
+          "original": "test@the_flow.com"
+        }
+      ]
+    },
+    {
+      "tour": "fuzz_main_flow_tour_80",
+      "step": ".o_field_widget[name=email] input",
+      "data": [
+        {
+          "name": "main_flow_tour",
+          "index": 22,
+          "step": ".o_field_widget[name=email] input",
+          "fuzz": "Z@z.org",
+          "original": "test@the_flow.com"
+        }
+      ]
+    },
+    {
+      "tour": "fuzz_main_flow_tour_114",
+      "step": ".o_field_widget[name=email] input",
+      "data": [
+        {
+          "name": "main_flow_tour",
+          "index": 22,
+          "step": ".o_field_widget[name=email] input",
+          "fuzz": "04XX@i.net",
+          "original": "test@the_flow.com"
+        }
+      ]
+    },
+    {
+      "tour": "fuzz_main_flow_tour_155",
+      "step": ".o_field_widget[name=email] input",
+      "data": [
+        {
+          "name": "main_flow_tour",
+          "index": 22,
+          "step": ".o_field_widget[name=email] input",
+          "fuzz": "OEwb@Q.com",
+          "original": "test@the_flow.com"
+        }
+      ]
+    },
+    {
+      "tour": "fuzz_main_flow_tour_229",
+      "step": ".o_field_widget[name=email] input",
+      "data": [
+        {
+          "name": "main_flow_tour",
+          "index": 22,
+          "step": ".o_field_widget[name=email] input",
+          "fuzz": "m4@3F.com",
+          "original": "test@the_flow.com"
+        }
+      ]
+    },
+    {
+      "tour": "fuzz_main_flow_tour_259",
+      "step": ".o_field_widget[name=email] input",
+      "data": [
+        {
+          "name": "main_flow_tour",
+          "index": 22,
+          "step": ".o_field_widget[name=email] input",
+          "fuzz": "MyI@ajdzE.net",
+          "original": "test@the_flow.com"
+        }
+      ]
+    },
+    {
+      "tour": "fuzz_main_flow_tour_323",
+      "step": ".o_field_widget[name=email] input",
+      "data": [
+        {
+          "name": "main_flow_tour",
+          "index": 22,
+          "step": ".o_field_widget[name=email] input",
+          "fuzz": "oX@a.com",
+          "original": "test@the_flow.com"
+        }
+      ]
+    },
+    {
+      "tour": "fuzz_main_flow_tour_466",
+      "step": ".o_field_widget[name=email] input",
+      "data": [
+        {
+          "name": "main_flow_tour",
+          "index": 22,
+          "step": ".o_field_widget[name=email] input",
+          "fuzz": "aZM@b.net",
+          "original": "test@the_flow.com"
+        }
+      ]
+    },
+    {
+      "tour": "fuzz_main_flow_tour_473",
+      "step": ".o_field_widget[name=email] input",
+      "data": [
+        {
+          "name": "main_flow_tour",
+          "index": 22,
+          "step": ".o_field_widget[name=email] input",
+          "fuzz": "J@VxtW.net",
+          "original": "test@the_flow.com"
+        }
+      ]
+    },
+    {
+      "tour": "fuzz_main_flow_tour_475",
+      "step": ".o_field_widget[name=email] input",
+      "data": [
+        {
+          "name": "main_flow_tour",
+          "index": 22,
+          "step": ".o_field_widget[name=email] input",
+          "fuzz": "0@8.com",
+          "original": "test@the_flow.com"
+        }
+      ]
+    },
+    {
+      "tour": "fuzz_main_flow_tour_507",
+      "step": ".o_field_widget[name=email] input",
+      "data": [
+        {
+          "name": "main_flow_tour",
+          "index": 22,
+          "step": ".o_field_widget[name=email] input",
+          "fuzz": "9J@b.org",
+          "original": "test@the_flow.com"
+        }
+      ]
+    },
+    {
+      "tour": "fuzz_main_flow_tour_518",
+      "step": ".o_field_widget[name=email] input",
+      "data": [
+        {
+          "name": "main_flow_tour",
+          "index": 22,
+          "step": ".o_field_widget[name=email] input",
+          "fuzz": "Dkl@u.org",
+          "original": "test@the_flow.com"
+        }
+      ]
+    },
+    {
+      "tour": "fuzz_main_flow_tour_528",
+      "step": ".o_field_widget[name=email] input",
+      "data": [
+        {
+          "name": "main_flow_tour",
+          "index": 22,
+          "step": ".o_field_widget[name=email] input",
+          "fuzz": "M@31.net",
+          "original": "test@the_flow.com"
+        }
+      ]
+    },
+    {
+      "tour": "fuzz_main_flow_tour_568",
+      "step": ".o_field_widget[name=email] input",
+      "data": [
+        {
+          "name": "main_flow_tour",
+          "index": 22,
+          "step": ".o_field_widget[name=email] input",
+          "fuzz": "yn@OU.org",
+          "original": "test@the_flow.com"
+        }
+      ]
+    },
+    {
+      "tour": "fuzz_main_flow_tour_589",
+      "step": ".o_field_widget[name=email] input",
+      "data": [
+        {
+          "name": "main_flow_tour",
+          "index": 22,
+          "step": ".o_field_widget[name=email] input",
+          "fuzz": "O@M.org",
+          "original": "test@the_flow.com"
+        }
+      ]
+    },
+    {
+      "tour": "fuzz_main_flow_tour_596",
+      "step": ".o_field_widget[name=email] input",
+      "data": [
+        {
+          "name": "main_flow_tour",
+          "index": 22,
+          "step": ".o_field_widget[name=email] input",
+          "fuzz": "8@Z8.net",
+          "original": "test@the_flow.com"
+        }
+      ]
+    },
+    {
+      "tour": "fuzz_main_flow_tour_637",
+      "step": ".o_field_widget[name=email] input",
+      "data": [
+        {
+          "name": "main_flow_tour",
+          "index": 22,
+          "step": ".o_field_widget[name=email] input",
+          "fuzz": "v@c1Eh.org",
+          "original": "test@the_flow.com"
+        }
+      ]
+    },
+    {
+      "tour": "fuzz_main_flow_tour_679",
+      "step": ".o_field_widget[name=email] input",
+      "data": [
+        {
+          "name": "main_flow_tour",
+          "index": 22,
+          "step": ".o_field_widget[name=email] input",
+          "fuzz": "04@7O.com",
+          "original": "test@the_flow.com"
+        }
+      ]
+    },
+    {
+      "tour": "fuzz_main_flow_tour_706",
+      "step": ".o_field_widget[name=email] input",
+      "data": [
+        {
+          "name": "main_flow_tour",
+          "index": 22,
+          "step": ".o_field_widget[name=email] input",
+          "fuzz": "HP@I.io",
+          "original": "test@the_flow.com"
+        }
+      ]
+    },
+    {
+      "tour": "fuzz_main_flow_tour_741",
+      "step": ".o_field_widget[name=email] input",
+      "data": [
+        {
+          "name": "main_flow_tour",
+          "index": 22,
+          "step": ".o_field_widget[name=email] input",
+          "fuzz": "H@n.org",
+          "original": "test@the_flow.com"
+        }
+      ]
+    },
+    {
+      "tour": "fuzz_main_flow_tour_794",
+      "step": ".o_field_widget[name=email] input",
+      "data": [
+        {
+          "name": "main_flow_tour",
+          "index": 22,
+          "step": ".o_field_widget[name=email] input",
+          "fuzz": "w@A.org",
+          "original": "test@the_flow.com"
+        }
+      ]
+    },
+    {
+      "tour": "fuzz_main_flow_tour_843",
+      "step": ".o_field_widget[name=email] input",
+      "data": [
+        {
+          "name": "main_flow_tour",
+          "index": 22,
+          "step": ".o_field_widget[name=email] input",
+          "fuzz": "4M@o.org",
+          "original": "test@the_flow.com"
+        }
+      ]
+    },
+    {
+      "tour": "fuzz_main_flow_tour_853",
+      "step": ".o_field_widget[name=email] input",
+      "data": [
+        {
+          "name": "main_flow_tour",
+          "index": 22,
+          "step": ".o_field_widget[name=email] input",
+          "fuzz": "w@h9B.org",
+          "original": "test@the_flow.com"
+        }
+      ]
+    },
+    {
+      "tour": "fuzz_main_flow_tour_875",
+      "step": ".o_field_widget[name=email] input",
+      "data": [
+        {
+          "name": "main_flow_tour",
+          "index": 22,
+          "step": ".o_field_widget[name=email] input",
+          "fuzz": "U@2.io",
+          "original": "test@the_flow.com"
+        }
+      ]
+    },
+    {
+      "tour": "fuzz_main_flow_tour_888",
+      "step": ".o_field_widget[name=email] input",
+      "data": [
+        {
+          "name": "main_flow_tour",
+          "index": 22,
+          "step": ".o_field_widget[name=email] input",
+          "fuzz": "hJ@W.io",
+          "original": "test@the_flow.com"
+        }
+      ]
+    },
+    {
+      "tour": "fuzz_main_flow_tour_924",
+      "step": ".o_field_widget[name=email] input",
+      "data": [
+        {
+          "name": "main_flow_tour",
+          "index": 22,
+          "step": ".o_field_widget[name=email] input",
+          "fuzz": "L@7.org",
+          "original": "test@the_flow.com"
+        }
+      ]
+    }
+  ],
+  "date": "2024-05-24T13:15:10.292068+00:00",
+  "total_fuzzed": 1000,
+  "failed_fuzzed": 28
+}

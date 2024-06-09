@@ -1,0 +1,448 @@
+{
+    "failed": [
+        {
+            "tour": "fuzz_main_flow_tour_0",
+            "step": ".o_data_row:has(.o_data_cell:contains('oB@R.|^$')) .o_data_cell:first",
+            "data": []
+        },
+        {
+            "tour": "fuzz_main_flow_tour_21",
+            "step": ".o_field_widget[name=email] input",
+            "data": [
+                {
+                    "name": "main_flow_tour",
+                    "index": 22,
+                    "step": ".o_field_widget[name=email] input",
+                    "fuzz": "LN@HrM.io",
+                    "original": "test@the_flow.com"
+                }
+            ]
+        },
+        {
+            "tour": "fuzz_main_flow_tour_30",
+            "step": ".o_field_widget[name=email] input",
+            "data": [
+                {
+                    "name": "main_flow_tour",
+                    "index": 22,
+                    "step": ".o_field_widget[name=email] input",
+                    "fuzz": "in@b.io",
+                    "original": "test@the_flow.com"
+                }
+            ]
+        },
+        {
+            "tour": "fuzz_main_flow_tour_36",
+            "step": ".o_field_widget[name=email] input",
+            "data": [
+                {
+                    "name": "main_flow_tour",
+                    "index": 22,
+                    "step": ".o_field_widget[name=email] input",
+                    "fuzz": "cc@RY.org",
+                    "original": "test@the_flow.com"
+                }
+            ]
+        },
+        {
+            "tour": "fuzz_main_flow_tour_39",
+            "step": ".o_data_row:has(.o_data_cell:contains('V@-^.}')) .o_data_cell:first",
+            "data": []
+        },
+        {
+            "tour": "fuzz_main_flow_tour_61",
+            "step": ".o_field_widget[name=email] input",
+            "data": [
+                {
+                    "name": "main_flow_tour",
+                    "index": 22,
+                    "step": ".o_field_widget[name=email] input",
+                    "fuzz": "Z@Y.io",
+                    "original": "test@the_flow.com"
+                }
+            ]
+        },
+        {
+            "tour": "fuzz_main_flow_tour_71",
+            "step": ".o_field_widget[name=email] input",
+            "data": [
+                {
+                    "name": "main_flow_tour",
+                    "index": 22,
+                    "step": ".o_field_widget[name=email] input",
+                    "fuzz": "I@uf1.net",
+                    "original": "test@the_flow.com"
+                }
+            ]
+        },
+        {
+            "tour": "fuzz_main_flow_tour_76",
+            "step": ".o_field_widget[name=email] input",
+            "data": [
+                {
+                    "name": "main_flow_tour",
+                    "index": 22,
+                    "step": ".o_field_widget[name=email] input",
+                    "fuzz": "N@x.net",
+                    "original": "test@the_flow.com"
+                }
+            ]
+        },
+        {
+            "tour": "fuzz_main_flow_tour_78",
+            "step": ".o_field_widget[name=email] input",
+            "data": [
+                {
+                    "name": "main_flow_tour",
+                    "index": 22,
+                    "step": ".o_field_widget[name=email] input",
+                    "fuzz": "P7@SBTk.io",
+                    "original": "test@the_flow.com"
+                }
+            ]
+        },
+        {
+            "tour": "fuzz_main_flow_tour_87",
+            "step": ".o_data_row:has(.o_data_cell:contains('@K*}?-')) .o_data_cell:first",
+            "data": []
+        },
+        {
+            "tour": "fuzz_main_flow_tour_90",
+            "step": ".o_data_row:has(.o_data_cell:contains('DM@$}?}')) .o_data_cell:first",
+            "data": []
+        },
+        {
+            "tour": "fuzz_main_flow_tour_111",
+            "step": ".o_field_widget[name=email] input",
+            "data": [
+                {
+                    "name": "main_flow_tour",
+                    "index": 22,
+                    "step": ".o_field_widget[name=email] input",
+                    "fuzz": "9kI@Q.net",
+                    "original": "test@the_flow.com"
+                }
+            ]
+        },
+        {
+            "tour": "fuzz_main_flow_tour_141",
+            "step": ".o_field_widget[name=email] input",
+            "data": [
+                {
+                    "name": "main_flow_tour",
+                    "index": 22,
+                    "step": ".o_field_widget[name=email] input",
+                    "fuzz": "K@M.com",
+                    "original": "test@the_flow.com"
+                }
+            ]
+        },
+        {
+            "tour": "fuzz_main_flow_tour_176",
+            "step": ".o_field_widget[name=email] input",
+            "data": [
+                {
+                    "name": "main_flow_tour",
+                    "index": 22,
+                    "step": ".o_field_widget[name=email] input",
+                    "fuzz": "c@tisg.io",
+                    "original": "test@the_flow.com"
+                }
+            ]
+        },
+        {
+            "tour": "fuzz_main_flow_tour_191",
+            "step": ".o_data_row:has(.o_data_cell:contains('Q@0}r-.}+')) .o_data_cell:first",
+            "data": []
+        },
+        {
+            "tour": "fuzz_main_flow_tour_249",
+            "step": ".o_data_row:has(.o_data_cell:contains('P@-#-?{')) .o_data_cell:first",
+            "data": []
+        },
+        {
+            "tour": "fuzz_main_flow_tour_279",
+            "step": ".o_data_row:has(.o_data_cell:contains('P6@#^*.')) .o_data_cell:first",
+            "data": []
+        },
+        {
+            "tour": "fuzz_main_flow_tour_297",
+            "step": ".o_data_row:has(.o_data_cell:contains('1r@^U+~&|')) .o_data_cell:first",
+            "data": []
+        },
+        {
+            "tour": "fuzz_main_flow_tour_325",
+            "step": ".o_data_row:has(.o_data_cell:contains('f?x@I{}]-')) .o_data_cell:first",
+            "data": []
+        },
+        {
+            "tour": "fuzz_main_flow_tour_349",
+            "step": ".o_field_widget[name=email] input",
+            "data": [
+                {
+                    "name": "main_flow_tour",
+                    "index": 22,
+                    "step": ".o_field_widget[name=email] input",
+                    "fuzz": "p@0.net",
+                    "original": "test@the_flow.com"
+                }
+            ]
+        },
+        {
+            "tour": "fuzz_main_flow_tour_374",
+            "step": ".o_field_widget[name=email] input",
+            "data": [
+                {
+                    "name": "main_flow_tour",
+                    "index": 22,
+                    "step": ".o_field_widget[name=email] input",
+                    "fuzz": "tPjq@K.org",
+                    "original": "test@the_flow.com"
+                }
+            ]
+        },
+        {
+            "tour": "fuzz_main_flow_tour_437",
+            "step": ".o_field_widget[name=email] input",
+            "data": [
+                {
+                    "name": "main_flow_tour",
+                    "index": 22,
+                    "step": ".o_field_widget[name=email] input",
+                    "fuzz": "n@Q.com",
+                    "original": "test@the_flow.com"
+                }
+            ]
+        },
+        {
+            "tour": "fuzz_main_flow_tour_487",
+            "step": ".o_data_row:has(.o_data_cell:contains('@T[-?^')) .o_data_cell:first",
+            "data": []
+        },
+        {
+            "tour": "fuzz_main_flow_tour_516",
+            "step": ".o_field_widget[name=email] input",
+            "data": [
+                {
+                    "name": "main_flow_tour",
+                    "index": 22,
+                    "step": ".o_field_widget[name=email] input",
+                    "fuzz": "rC@p.net",
+                    "original": "test@the_flow.com"
+                }
+            ]
+        },
+        {
+            "tour": "fuzz_main_flow_tour_569",
+            "step": ".o_data_row:has(.o_data_cell:contains('gaX@PO+~{$')) .o_data_cell:first",
+            "data": []
+        },
+        {
+            "tour": "fuzz_main_flow_tour_599",
+            "step": ".o_data_row:has(.o_data_cell:contains('n3@-Q}}]^')) .o_data_cell:first",
+            "data": []
+        },
+        {
+            "tour": "fuzz_main_flow_tour_601",
+            "step": ".o_data_row:has(.o_data_cell:contains('>`@n[[|#')) .o_data_cell:first",
+            "data": []
+        },
+        {
+            "tour": "fuzz_main_flow_tour_633",
+            "step": ".o_field_widget[name=email] input",
+            "data": [
+                {
+                    "name": "main_flow_tour",
+                    "index": 22,
+                    "step": ".o_field_widget[name=email] input",
+                    "fuzz": "g@7.net",
+                    "original": "test@the_flow.com"
+                }
+            ]
+        },
+        {
+            "tour": "fuzz_main_flow_tour_655",
+            "step": ".o_field_widget[name=email] input",
+            "data": [
+                {
+                    "name": "main_flow_tour",
+                    "index": 22,
+                    "step": ".o_field_widget[name=email] input",
+                    "fuzz": "PsV@VYx6.org",
+                    "original": "test@the_flow.com"
+                }
+            ]
+        },
+        {
+            "tour": "fuzz_main_flow_tour_677",
+            "step": ".o_field_widget[name=email] input",
+            "data": [
+                {
+                    "name": "main_flow_tour",
+                    "index": 22,
+                    "step": ".o_field_widget[name=email] input",
+                    "fuzz": "VI@b.net",
+                    "original": "test@the_flow.com"
+                }
+            ]
+        },
+        {
+            "tour": "fuzz_main_flow_tour_726",
+            "step": ".o_data_row:has(.o_data_cell:contains('@x7I0~||*')) .o_data_cell:first",
+            "data": []
+        },
+        {
+            "tour": "fuzz_main_flow_tour_732",
+            "step": ".o_field_widget[name=email] input",
+            "data": [
+                {
+                    "name": "main_flow_tour",
+                    "index": 22,
+                    "step": ".o_field_widget[name=email] input",
+                    "fuzz": "yh@3.net",
+                    "original": "test@the_flow.com"
+                }
+            ]
+        },
+        {
+            "tour": "fuzz_main_flow_tour_735",
+            "step": ".o_field_widget[name=email] input",
+            "data": [
+                {
+                    "name": "main_flow_tour",
+                    "index": 22,
+                    "step": ".o_field_widget[name=email] input",
+                    "fuzz": "V@B.net",
+                    "original": "test@the_flow.com"
+                }
+            ]
+        },
+        {
+            "tour": "fuzz_main_flow_tour_758",
+            "step": ".o_field_widget[name=email] input",
+            "data": [
+                {
+                    "name": "main_flow_tour",
+                    "index": 22,
+                    "step": ".o_field_widget[name=email] input",
+                    "fuzz": "XC@7.com",
+                    "original": "test@the_flow.com"
+                }
+            ]
+        },
+        {
+            "tour": "fuzz_main_flow_tour_796",
+            "step": ".o_field_widget[name=email] input",
+            "data": [
+                {
+                    "name": "main_flow_tour",
+                    "index": 22,
+                    "step": ".o_field_widget[name=email] input",
+                    "fuzz": "jSwS@3.net",
+                    "original": "test@the_flow.com"
+                }
+            ]
+        },
+        {
+            "tour": "fuzz_main_flow_tour_813",
+            "step": ".o_data_row:has(.o_data_cell:contains('@|2Nr#&#|')) .o_data_cell:first",
+            "data": []
+        },
+        {
+            "tour": "fuzz_main_flow_tour_826",
+            "step": ".o_field_widget[name=email] input",
+            "data": [
+                {
+                    "name": "main_flow_tour",
+                    "index": 22,
+                    "step": ".o_field_widget[name=email] input",
+                    "fuzz": "T@6.net",
+                    "original": "test@the_flow.com"
+                }
+            ]
+        },
+        {
+            "tour": "fuzz_main_flow_tour_874",
+            "step": ".o_field_widget[name=email] input",
+            "data": [
+                {
+                    "name": "main_flow_tour",
+                    "index": 22,
+                    "step": ".o_field_widget[name=email] input",
+                    "fuzz": "ai@nF.org",
+                    "original": "test@the_flow.com"
+                }
+            ]
+        },
+        {
+            "tour": "fuzz_main_flow_tour_896",
+            "step": ".o_field_widget[name=email] input",
+            "data": [
+                {
+                    "name": "main_flow_tour",
+                    "index": 22,
+                    "step": ".o_field_widget[name=email] input",
+                    "fuzz": "C@D.org",
+                    "original": "test@the_flow.com"
+                }
+            ]
+        },
+        {
+            "tour": "fuzz_main_flow_tour_903",
+            "step": ".o_data_row:has(.o_data_cell:contains('4wDZi@{-&{')) .o_data_cell:first",
+            "data": []
+        },
+        {
+            "tour": "fuzz_main_flow_tour_926",
+            "step": ".o_data_row:has(.o_data_cell:contains('V@&--+')) .o_data_cell:first",
+            "data": []
+        },
+        {
+            "tour": "fuzz_main_flow_tour_934",
+            "step": ".o_data_row:has(.o_data_cell:contains('vE}@.#~]')) .o_data_cell:first",
+            "data": []
+        },
+        {
+            "tour": "fuzz_main_flow_tour_945",
+            "step": ".o_field_widget[name=email] input",
+            "data": [
+                {
+                    "name": "main_flow_tour",
+                    "index": 22,
+                    "step": ".o_field_widget[name=email] input",
+                    "fuzz": "pjl4n@M.com",
+                    "original": "test@the_flow.com"
+                }
+            ]
+        },
+        {
+            "tour": "fuzz_main_flow_tour_976",
+            "step": ".o_field_widget[name=email] input",
+            "data": [
+                {
+                    "name": "main_flow_tour",
+                    "index": 22,
+                    "step": ".o_field_widget[name=email] input",
+                    "fuzz": "Bj@b.net",
+                    "original": "test@the_flow.com"
+                }
+            ]
+        },
+        {
+            "tour": "fuzz_main_flow_tour_996",
+            "step": ".o_field_widget[name=email] input",
+            "data": [
+                {
+                    "name": "main_flow_tour",
+                    "index": 22,
+                    "step": ".o_field_widget[name=email] input",
+                    "fuzz": "0v@4iNQT.org",
+                    "original": "test@the_flow.com"
+                }
+            ]
+        }
+    ],
+    "date": "2024-04-26T22:33:20.166167+00:00",
+    "total_fuzzed": 1000,
+    "failed_fuzzed": 45
+}
