@@ -15,3 +15,5 @@ pwsh ./build.ps1
 To make mutants of a tour, several scripts are available in the `scripts` directory. Each script is a stub for the main flow tour using each strategy of the tool.
 
 After the mutants are generated, simply run odoo using the config file `odoo_config.cfg` (made using the template) and add the argument `--test-tags fuzze` to run the tests.
+
+Results of the previous evaluation are available in [fuzze-evaluation/evaluation/data/](evaluation/data/).
